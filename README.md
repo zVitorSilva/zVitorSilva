@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ola humanos 👋
 
-<!--
-**zVitorSilva/zVitorSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Sobre o mim
 
-Here are some ideas to get you started:
+Cursando primeiro periodo em analise e densenvolvimentos de sistemas na Unicesumar,tmabém estudando por fora, iniciante e sem experiencia na área
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zVitorSilva&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zVitorSilva&repo=TikTok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zVitorSilva&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
