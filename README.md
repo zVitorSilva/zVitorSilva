@@ -2,7 +2,7 @@
 
 ##### Sobre o mim
 
-Cursando primeiro periodo em analise e densenvolvimentos de sistemas na Unicesumar,tmabém estudando por fora, iniciante e sem experiencia na área
+Cursando primeiro periodo em analise e densenvolvimentos de sistemas na Unicesumar,também estudando por fora, iniciante e sem experiencia na área
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zVitorSilva&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
